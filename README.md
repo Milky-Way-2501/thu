@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <title>Nguyễn Minh Thư - Giới Thiệu Bản Thân</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
@@ -21,7 +18,6 @@
         .btn {display: inline-block;margin-top: 15px;padding: 10px 20px;background: #ff758c;color: white;border-radius: 25px; text-decoration: none;transition: 0.3s;}
         .btn:hover {background: #ff4f70; }
     </style>
-</head>
 <body>
 <header>
     <h1>Nguyễn Minh Thư</h1>
