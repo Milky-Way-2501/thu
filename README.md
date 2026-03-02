@@ -58,7 +58,8 @@
     <p>
         Bạn có thể kết nối với mình qua mạng xã hội hoặc email nhé! <br><br>
         📞 Số điện thoại: 0763754569 <br>
-        📧 Gmail: nguyeminhthu76nt2008@gmail.com
+        📧 Gmail: nguyeminhthu76nt2008@gmail.com<br>
+        <a href="https://locket.cam/minthuu150" target="_blank">Locket</a>
     </p>
     <a href="#" class="btn">Kết nối với mình</a>
 </section>
